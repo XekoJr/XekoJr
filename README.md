@@ -28,7 +28,7 @@
 
 ## 📫 Contact Me:
 - 📧 Email: **aapacheco2000@hotmail.com**
-- 🔗 [LinkedIn]([https://linkedin.com/in/XekoJr](https://www.linkedin.com/in/andrepacheco11/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/andrepacheco11/)
 - 🌍 [Portfolio](https://xekojr.github.io/portfolio/)
 
 ⭐ **Check out my projects and drop a star if you like them!** ⭐
