@@ -10,7 +10,7 @@
 ## 🏗️ Projects I've Worked On:
 
 ### 🌐 **Web Development**
-- 🔥 **[Game Library API](https://github.com/XekoJr/millionaire-api)** – A Laravel API for a game checklist.
+- 🔥 **[Game Library API](https://github.com/XekoJr/millionaire-api)** – A Laravel API for the Who Wants to be Millionaire game.
 - 🎮 **[GameLobby Platform](https://github.com/XekoJr/gamelobby-platform)** – A PHP-based platform to keep track of your games.
 - 🌱 **[Ecofuturo](https://github.com/XekoJr/ecofuturo)** – A PHP-based platform to teach children about the environment through games, quizzes, and activities.
 - 🏎 **[Drive to Survive Fan Page](https://github.com/XekoJr/f1-drive-to-survive)** – A static website about F1.
