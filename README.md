@@ -21,6 +21,7 @@
 
 ### 📱 **Mobile Apps**
 - 📞 **[Contacts Manager](https://github.com/XekoJr/android-apps)** – A simple task manager using Kotlin & SQLite.
+- And Others
 
 ### 🖥️ **Terminal-Based Projects**
 - 🏪 **[Game Store Java](https://github.com/XekoJr/game-store-java)** – A Java-based terminal app for managing a game store.
