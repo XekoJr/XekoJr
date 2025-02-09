@@ -16,7 +16,7 @@
 - 🏎 **[Drive to Survive Fan Page](https://github.com/XekoJr/f1-drive-to-survive)** – A static website about F1.
 
 ### 🎮 **Game Development**
-- 🕹️ **[2D Survivor](https://github.com/XekoJr/2d-survivor)** – A Vampire Survivors-inspired game.
+- 🕹️ **[2D Survivor](https://github.com/XekoJr/2d-survivor)** – A Vampire Survivors-inspired game using pygame.
 - 🎯 **[Who Wants to Be a Millionaire](https://github.com/XekoJr/who-wants-to-be-millionaire)** – A trivia game using raw JavaScript.
 
 ### 📱 **Mobile Apps**
