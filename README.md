@@ -4,7 +4,7 @@
 ## 🔧 Tech Stack:
 - 💻 **Languages:** JavaScript, Python, Java, PHP, Kotlin
 - 📱 **Mobile:** Android (Kotlin)
-- 🌐 **Web Dev:** HTML, CSS, Laravel, Express.js
+- 🌐 **Web Dev:** Laravel, Express.js, React, HTML, CSS
 - 🛢 **Database:** MySQL, SQLite
 
 ## 🏗️ Projects I've Worked On:
